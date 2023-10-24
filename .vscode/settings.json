@@ -8,9 +8,5 @@
 		"**/*.o": true,
 		"**/*.exe": true,
 	},
-	"files.associations": {
-		"*.m": "cpp",
-		"iostream": "cpp",
-		"cmath": "cpp"
-	}
+	"C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\gcc.exe"
 }

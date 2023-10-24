@@ -17,6 +17,8 @@
 // So that std:: can be omited //
 using namespace std;
 
+// This is a test
+
 // Screen size //
 int x = 1200, y = 800;
 Color colors[] = {(Color){0,128,128,255},(Color){128,0,0,255},(Color){0,128,0,255},(Color){0,0,128,255},(Color){128,0,128,255}};
